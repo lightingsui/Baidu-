@@ -1,4 +1,4 @@
-![工具](https://img.shields.io/badge/百度AI-Utils-pink.svg)![github](https://img.shields.io/badge/lightingsui-github-cyan.svg)![logo](https://img.shields.io/badge/GitHub-lightingsui-red.svg?style=social&logo=github)
+![工具](https://img.shields.io/badge/百度AI-Utils-pink.svg) ![github](https://img.shields.io/badge/lightingsui-github-cyan.svg) ![logo](https://img.shields.io/badge/GitHub-lightingsui-red.svg?style=social&logo=github)
 
 ## 封装百度人脸识别客户端
 
