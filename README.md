@@ -17,8 +17,6 @@ baidu.secret_key=应用密码
 
 新建一个百度应用，即可查看到以上信息
 
-![1577628143105](C:\Users\LIGHTI~1\AppData\Local\Temp\1577628143105.png)
-
 然后调用AipFaceUtil中的getAipFace方法即可获取到一个百度应用客户端。
 
 但是，在FaceRecognitionUtil中，已经获取到了百度应用客户端，只需要使用其中的方法便可以实现对用户以及用户人脸的操作。
